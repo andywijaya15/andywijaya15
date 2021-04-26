@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @andywijaya15
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in PHP,Java
+- 🌱 I’m currently learning React
 
 <!---
 andywijaya15/andywijaya15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
