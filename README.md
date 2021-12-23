@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andywijaya15
-- 👀 I’m interested in PHP,Java
+- 👀 I’m interested in PHP
 - 🌱 I’m currently learning Node.js
 
 <!---
