@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andywijaya15
-- 👀 I’m interested in life
-- 🌱 I’m currently learning real life
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Go Lang
 
 <!---
 andywijaya15/andywijaya15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
